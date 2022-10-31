@@ -1,0 +1,5 @@
+request:
+  method: POST
+  path: /quickstarts/eshop/items/:id/buy
+response:
+  statusCode: 200

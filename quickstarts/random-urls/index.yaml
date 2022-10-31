@@ -1,0 +1,5 @@
+request:
+  method: GET
+  path: /quickstarts/random-urls/index.html
+response:
+  statusCode: 200

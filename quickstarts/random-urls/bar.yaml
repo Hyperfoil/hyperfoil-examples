@@ -1,0 +1,5 @@
+request:
+  method: GET
+  path: /quickstarts/random-urls/bar.png
+response:
+  statusCode: 300

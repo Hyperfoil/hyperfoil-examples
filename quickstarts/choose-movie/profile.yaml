@@ -1,0 +1,5 @@
+request:
+  method: GET
+  path: /quickstarts/choose-movie/profile
+response:
+  statusCode: 200

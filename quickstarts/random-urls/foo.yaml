@@ -1,0 +1,5 @@
+request:
+  method: GET
+  path: /quickstarts/random-urls/foo.png
+response:
+  statusCode: 200

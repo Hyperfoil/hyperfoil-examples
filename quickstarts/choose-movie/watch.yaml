@@ -1,0 +1,5 @@
+request:
+  method: GET
+  path: /quickstarts/choose-movie/movie/:name/watch
+response:
+  statusCode: 200
